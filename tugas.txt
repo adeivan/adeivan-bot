@@ -1,4 +1,4 @@
 {
-  "result": "test", 
+  "result": "Pemrakarsa, pelopor, pemimpin, bebas, pekerja keras, individualis.  Anda mempunyai kepercayaan diri, intelektualitas, dan daya kepemimpinan yang sangat tinggi. Anda juga termasuk orang yang mempunyai pandangan hidup yang luas. Ide-ide kreatif dapat menjadikan anda sebagai pencetus dan penentu suatu kreasi atau tindakan. Cobalah untuk tidak mudah bosan, berubah-ubah pikiran, kehilangan harapan, atau menjadi terlalu agresif dalam menindak-lanjuti hal yang sudah anda mulai atau rintis. Raihlah apa yang menjadi tujuan hidup anda. Anda penyuka petualangan dan hal-hal yang memicu adrenalin. Anda harus mempunyai hobi yang menarik dan menyenangkan. Karena anda mudah bosan, anda tidak menyukai hal-hal yang bersifat monoton dan biasa saja. Hindari emosi, keras kepala, dan mau menang sendiri karena kesuksesan anda terletak pada bagaimana cara anda dapat bersabar dan berdiplomasi dalam meraih apapun tanpa harus bertindak bosy (berlagak seperti bos) atau memaksakan kehendak karena anda sudah mempunyai daya kepemimpinan sejati yang harus diarahkan secara positif.       ", 
   "status": 200
 }
