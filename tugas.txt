@@ -1,4 +1,0 @@
-{
-  "result": "TUGAS", 
-  "status": 200
-}
