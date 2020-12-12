@@ -1,4 +1,4 @@
 {
-  "result": "aaaaaaaaaaaaa", 
+  "result": "TUGAS", 
   "status": 200
 }
