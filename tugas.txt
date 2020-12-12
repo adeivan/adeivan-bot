@@ -1,3 +1,4 @@
 {
-  "quotes": "Jika Anda harus membuat pilihan dan Anda tidak melakukannya, itu saja sudah pilihan.", 
+  "result": "test", 
+  "status": 200
 }
