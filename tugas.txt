@@ -1,5 +1,3 @@
 {
-  "author": "William James", 
   "quotes": "Jika Anda harus membuat pilihan dan Anda tidak melakukannya, itu saja sudah pilihan.", 
-  "status": 200
 }
