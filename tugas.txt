@@ -1,2 +1,5 @@
-Waktu daftar hari terakhir aruga-line waktu terasa banyak terbuang aruga-line Kamu nggak perlu khawatir aruga-line cintaku hanya untukmu seorang aruga-line  
-Waktu daftar hari terakhir aruga-line waktu terasa banyak terbuang aruga-line Kamu nggak perlu khawatir aruga-line cintaku hanya untukmu seorang
+{
+  "author": "William James", 
+  "quotes": "Jika Anda harus membuat pilihan dan Anda tidak melakukannya, itu saja sudah pilihan.", 
+  "status": 200
+}
