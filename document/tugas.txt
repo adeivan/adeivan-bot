@@ -1,10 +1,1 @@
-Format salah , silahkan ketik pesan dengan : #slide <kode *+* ke>
-
-contoh #slide *cct4*
-
-Kode Matkul
-- *cct* (creative thingking)
-- *mm* (multimedia)
-- *pik* (pengatar ilmu komunikasi)
-- *bi* (bahasa indonesia)
-- *bid* (bahasa inggris dasar)
+Viola, belum ada tugas nih✨
