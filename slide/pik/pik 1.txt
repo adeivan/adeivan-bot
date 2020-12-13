@@ -1,0 +1,4 @@
+{
+  "linknya": "https://raw.githubusercontent.com/adeivan/adeivan-bot/main/slide/pik/pik%201.pdf", 
+  "status": 200
+}
