@@ -1,19 +1,26 @@
 🛸 *Releases*
 
-*Version: r1.4* on Dec 13, 2020
--Provides a slide menu function
--Provides a tugas menu function
--Provides a jadwal menu function
--Improvement file download
+*Version: r1.7*
+-Improvement access file to github server
+-Provides a 'anggota' menu function
+-Provides a 'kelompok' menu function
+released this on Dec 15, 2020
 
-*Version: r1.2* on Dec 12, 2020
+*Version: r1.4*
+-Provides a 'slide' menu function
+released this on Dec 13, 2020
+
+*Version: r1.2*
 -Menu/Notes Update
 -Add Donasi Menu
 -Add About
+released this on Dec 12, 2020
 
-*Version: r1.1* on Dec 11, 2020
+*Version: r1.1*
 -Add Kalender Akademik
 -Add Menu
+released this on Dec 11, 2020
 
-*Version: r1.0* on Dec 10, 2020
+*Version: r1.0 (First Release)*
 -Create adeivan-bot
+released this on Dec 10, 2020
