@@ -1,6 +1,7 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/adeivan/adeivan-bot/main/media/logo.png" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/adeivan/adeivan-bot/main/media/logo-circle.png" width="128" height="128"/>
 </p>
+<p align="center"><b>adeivan-bot</b></p>
 
 ## Getting Started
 
