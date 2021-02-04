@@ -1,4 +1,10 @@
 🛸 *Releases*
+*Version: r1.9* - Dec 3, 2021
+-Fix Menu/Notes
+-Access from #help / #menu / #notes
+
+*Version: r1.8* - Jan 2, 2021
+-Online with 8 GB RAM
 
 *Version: r1.7* - Dec 15, 2020
 -Improvement access file to github server
@@ -10,11 +16,9 @@
 
 *Version: r1.2* - Dec 12, 2020
 -Menu/Notes Update
--Add Donasi Menu
 -Add About
 
 *Version: r1.1* - Dec 11, 2020
--Add Kalender Akademik
 -Add Menu
 
 *Version: r1.0* - Dec 10, 2020
